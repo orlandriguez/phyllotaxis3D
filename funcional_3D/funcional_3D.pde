@@ -73,4 +73,4 @@ while(y0 >= 0){
   x0 = x0 + gold;
   y0 = y0 - embrionaryElevation* pixelFactor; 
 }
-save("crassisimum.tif");
+//save("crassisimum.tif");
